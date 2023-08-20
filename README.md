@@ -1,7 +1,7 @@
 # HatespeechAnalyse
 Python-Skripte, um beispielsweise Tweets oder auch andere textliche Inhalte mit Hilfe der Perspective-API auf Hatespeech analysieren zu können.
 
-Um die Skripte auszuführen, werden rudimentäre Python-Kenntnisse vorausgesetzt. Ihr soltet Python 3 und die entsprechenden genutzten Bibliotheken auf eurem System installiert haben.
+Um die Skripte auszuführen, werden rudimentäre Python-Kenntnisse vorausgesetzt. Ihr solltet Python 3 und die entsprechenden genutzten Bibliotheken auf eurem System installiert haben.
 Je nachdem, was ihr mit den Skripten machen möchtet, müssen diese angepasst werden. Wenn ihr das nicht möchtet und die Skripte möglichst so benutzen möchtet wie sie sind, folgt dieser Anleitung:
 
 1. Besorgt euch Tweet-Daten. Diese könnt ihr euch beispielsweise von archive.org herunterladen. Wenn ihr ganze Datensätze haben wollt, solltet ihr das am besten per Terminal machen, weil die Datensätze über 60 GB groß sind.
